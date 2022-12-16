@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.block{
+    width: 400px;
+    height: 400px;
+    background-color: #D9D9D9;
+    margin: 0 auto;
+}
+.circleB{
+    transform: rotate(150deg);
+  
+}
+
+.rect{
+    transform: rotate(47deg);
+}
